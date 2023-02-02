@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 02
 
-* Last name:
+* Last name: Fernando
 
-* First name:
+* First name: Aaleia
 
-* GitHub username:
+* GitHub username: Aaleia
 
 * Notes:
 
